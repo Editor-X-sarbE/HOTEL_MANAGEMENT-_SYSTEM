@@ -1,0 +1,10 @@
+{
+    "java.project.sourcePaths": ["src"],
+    "java.project.outputPath": "bin",
+    "java.project.referencedLibraries": [
+        "lib/**/*.jar",
+        "d:\\mysql-connector-j-8.2.0\\mysql-connector-j-8.2.0.jar",
+        "d:\\jcalendar-1.4\\rs2xml.jar"
+    ],
+    "java.debug.settings.onBuildFailureProceed": true
+}
